@@ -1,0 +1,8 @@
+public class New_branch{
+	public static void main(String{} args){
+		System.out.print("God is Amazing");
+		System.out.print("life is a teacher");
+	}
+}
+
+
