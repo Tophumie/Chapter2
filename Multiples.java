@@ -8,7 +8,7 @@ public class  Multiples{
 
 
 		System.out.print("input second integer: ");
-		int number2 = safe.nextInt();
+		int number2 = safe.nextInt()
 		
 		System.out.print("input third integer: ");
 		int number3 = safe.nextInt();
@@ -26,6 +26,7 @@ public class  Multiples{
 		}
 		if(number1 % number3 == 0){
 		System out.printf("%d is a multiple of %d%n", number 1, number3);
+		}
 	}
 }
 
